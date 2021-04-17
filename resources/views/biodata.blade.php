@@ -72,6 +72,16 @@
                 <td width="2%">:</td>
                 <td style="color: #e9a7f9; font-weight:bold">Luthfil Khakim</td>
             </tr>
+            <tr>
+              <td width="25%" valign="top" class="textt">NIM</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">18090123</td>
+            </tr>
+             <tr>
+              <td width="25%" valign="top" class="textt">Kelas</td>
+                <td width="2%">:</td>
+                <td style="color: #e9a7f9; font-weight:bold">6B</td>
+            </tr>
           <tr>
               <td class="textt">Jenis Kelamin</td>
                 <td>:</td>
